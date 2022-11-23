@@ -5,5 +5,3 @@ Make use of variables and dynamic variables.
 <<<<<<< HEAD
 Author: Simon2
 =======
-Author: Simon1
->>>>>>> 5b667c19e50fed2636f0564e2562e55310c7bdae
